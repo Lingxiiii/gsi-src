@@ -4,6 +4,8 @@
         "https://dl.google.com/developers/android/sc/images/gsi/gsi-dsc.json",
         "https://dl.google.com/developers/android/tm/images/gsi/gsi-dsc.json"
     ]
+}
+{
 "images":[
       {
          "name":"Miui 本地包 ",
