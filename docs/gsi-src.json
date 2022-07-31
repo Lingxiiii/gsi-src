@@ -1,32 +1,8 @@
 {
-"include": [
-        "https://dl.google.com/developers/android/rvc/images/gsi/gsi-dsc.json",
-        "https://dl.google.com/developers/android/sc/images/gsi/gsi-dsc.json",
-        "https://dl.google.com/developers/android/tm/images/gsi/gsi-dsc.json"
+    "include": [
+        "http://gsi_src.lxiii.tk/gsi/offical/rvc/gsi-dec.json",
+        "http://gsi_src.lxiii.tk/gsi/offical/sc/gsi-dec.json",
+        "http://gsi_src.lxiii.tk/gsi/offical/tm/gsi-dec.json",
+        "http://gsi_src.lxiii.tk/gsi/gsi_local.json"
     ]
-}
-{
-"images":[
-      {
-         "name":"Miui 本地包 ",
-         "os_version":"12",
-         "cpu_abi": "arm64-v8a",
-         "details":"安装/sdcard/dsu.zip，请提前准备好文件",
-         "uri":"file:///storage/emulated/0/dsu.zip"
-      },
-      {
-         "name":"Miui 在线包 ",
-         "os_version":"12",
-         "cpu_abi": "arm64-v8a",
-         "details":"将从网络下载安装包3GB，请注意流量消耗",
-         "uri":"https://service-5pbou4lr-1257232761.sh.apigw.tencentcs.com/release/Ali/dsu.zip"
-      },
-      {
-         "name":"Android 11本地包 ",
-         "os_version":"11",
-         "cpu_abi": "arm64-v8a",
-         "details":"安装/sdcard/dsu.zip，请提前准备好文件",
-         "uri":"file:///storage/emulated/0/dsu.zip"
-      }
-   ]
-}
+} 
