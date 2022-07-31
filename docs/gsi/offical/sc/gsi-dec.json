@@ -1,0 +1,40 @@
+{
+  "images": [
+    {
+      "name": "GSI ARM64",
+      "os_version": "S",
+      "cpu_abi": "arm64-v8a",
+      "details": "arm64-exp-SQ3A.220705.003.A1-8672226-6554a6c4",
+      "spl": "2022-07-05",
+      "tos": "https://dl.google.com/developers/android/gsi/gsi-12-tos.txt",
+      "uri": "https://dl.google.com/developers/android/sc/images/gsi/aosp_arm64-exp-SQ3A.220705.003.A1-8672226-6554a6c4.zip"
+    },
+    {
+      "name": "GSI X86_64",
+      "os_version": "S",
+      "cpu_abi": "x86_64",
+      "details": "x86_64-exp-SQ3A.220705.003.A1-8672226-49fbac75",
+      "spl": "2022-07-05",
+      "tos": "https://dl.google.com/developers/android/gsi/gsi-12-tos.txt",
+      "uri": "https://dl.google.com/developers/android/sc/images/gsi/aosp_x86_64-exp-SQ3A.220705.003.A1-8672226-49fbac75.zip"
+    },
+    {
+      "name": "GSI+GMS ARM64",
+      "os_version": "S",
+      "cpu_abi": "arm64-v8a",
+      "details": "gms_arm64-exp-SQ3A.220705.003.A1-8672226-7230b502",
+      "spl": "2022-07-05",
+      "tos": "https://dl.google.com/developers/android/gsi/gsi-12-tos.txt",
+      "uri": "https://dl.google.com/developers/android/sc/images/gsi/gsi_gms_arm64-exp-SQ3A.220705.003.A1-8672226-7230b502.zip"
+    },
+    {
+      "name": "GSI+GMS X86_64",
+      "os_version": "S",
+      "cpu_abi": "x86_64",
+      "details": "gms_x86_64-exp-SQ3A.220705.003.A1-8672226-e7e3f2c3",
+      "spl": "2022-07-05",
+      "tos": "https://dl.google.com/developers/android/gsi/gsi-12-tos.txt",
+      "uri": "https://dl.google.com/developers/android/sc/images/gsi/gsi_gms_x86_64-exp-SQ3A.220705.003.A1-8672226-e7e3f2c3.zip"
+    }
+  ]
+}
