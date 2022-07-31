@@ -1,7 +1,19 @@
 {
-    "include": [
-        "https://dl.google.com/developers/android/rvc/images/gsi/gsi-dsc.json",
-        "https://dl.google.com/developers/android/sc/images/gsi/gsi-dsc.json",
-        "https://dl.google.com/developers/android/tm/images/gsi/gsi-dsc.json"
-    ]
+    "include": ["https://dl.google.com/developers/android/gsi/gsi-src.json"]
+    "images":[
+      {
+         "name":"OEM image test",
+         "os_version":"10",
+         "cpu_abi": "arm64-v8a",
+         "details":"...",
+         "vndk":[
+            27,
+            28,
+            29
+         ],
+         "spl":"...",
+         "pubkey":"",
+         "uri":"https://.../....zip"
+      },
+
 }
