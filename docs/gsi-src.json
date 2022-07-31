@@ -1,18 +1,3 @@
 {
     "include": ["https://dl.google.com/developers/android/gsi/gsi-src.json"]
-    "images":[
-      {
-         "name":"OEM image test",
-         "os_version":"10",
-         "cpu_abi": "arm64-v8a",
-         "details":"...",
-         "vndk":[
-            27,
-            28,
-            29
-         ],
-         "spl":"...",
-         "pubkey":"",
-         "uri":"https://.../....zip"
-      }
 }
